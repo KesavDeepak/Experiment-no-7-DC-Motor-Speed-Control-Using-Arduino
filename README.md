@@ -1,7 +1,5 @@
-###  DATE: 21-03-2024
-###  NAME: KESAV DEEPAK SRIDHARAN
-###  ROLL NO : 212223230104
-###  DEPARTMENT: AI&DS
+###  DATE:
+
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
